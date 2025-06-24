@@ -1,1 +1,8 @@
-# CS-320-8-2-Journal
+How can I ensure that my code, program, or software is functional and secure?
+Ensuring that my software is functional and secure begins with thorough testing. I rely on unit tests to validate the behavior of individual components and confirm that they work as intended. In these projects, I wrote test cases to uncover potential bugs and confirm that updates or changes did not break existing functionality. I also consider edge cases and handle invalid input gracefully to prevent unexpected behavior. Security-wise, I make sure to follow principles such as input validation, avoiding hard-coded sensitive data, and adhering to best practices in coding and dependency management.
+
+How do I interpret user needs and incorporate them into a program?
+Understanding user needs involves analyzing the project requirements and translating them into functional and testable components. I break down user stories or requirements into clear objectives and use them to guide my development and testing processes. For example, in the contact management system, I focused on creating features like unique identifiers and field validation, which were derived directly from user expectations. I continuously refer back to the requirements to make sure my implementation aligns with what users truly need.
+
+How do I approach designing software?
+I approach software design by first understanding the problem domain and defining the system’s responsibilities. I often start with diagrams or pseudo-code to outline the relationships between classes or modules. Modularity and separation of concerns are key principles I follow—each component should have a clear and single responsibility. I also prioritize maintainability and testability in my design, which means writing clean, readable code with well-defined interfaces and comprehensive unit tests. These principles guided my development of the ContactService and its test classes.
